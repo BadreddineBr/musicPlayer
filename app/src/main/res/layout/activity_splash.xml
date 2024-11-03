@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFBFB"> <!-- or any background color/image -->
+
+    <ImageView
+        android:id="@+id/lignes"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-52dp"
+        android:src="@drawable/lignes" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo_splash" />
+
+    <TextView
+        android:id="@+id/appName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Music Player"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+
+
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="-127dp"
+        android:src="@drawable/lignes" />
+    <TextView
+        android:gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_margin="160dp"
+
+        android:text="Version 1.2.0"
+        android:textColor="#95979E"
+        android:textSize="15sp" />
+
+</RelativeLayout>
