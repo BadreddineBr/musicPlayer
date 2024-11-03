@@ -6,8 +6,10 @@ MusicPlayer est une application Android de lecteur de musique locale permettant 
 
 Voici quelques captures d'écran pour vous donner un aperçu de l'application :
 
-![Capture d'écran 1](https://github.com/user-attachments/assets/4c3897f1-bef9-4cb6-99d6-ffc395627e55)
-![Capture d'écran 2](https://github.com/user-attachments/assets/03fd8b3b-4b83-4840-9fda-b0cede698d75)
-![Capture d'écran 3](https://github.com/user-attachments/assets/0ec1878b-50db-4145-bab1-389df4e4cd75)
-![Capture d'écran 4](https://github.com/user-attachments/assets/9ed9ec2e-2045-4c40-8d90-8b4b2a3ec2e6)
-![Capture d'écran 5](https://github.com/user-attachments/assets/aa707ee5-110c-4a35-a6ab-2e75f1c16d49)
+![Capture d'écran 1](https://github.com/user-attachments/assets/cf57e39c-951e-4706-a5d2-06f786428399)
+![Capture d'écran 2](https://github.com/user-attachments/assets/0bd4a7f2-39de-4b81-9ce5-74d8fbc7beab)
+![Capture d'écran 3](https://github.com/user-attachments/assets/4ecd25e4-7447-4846-a36b-c3a559abad84)
+![Capture d'écran 4](https://github.com/user-attachments/assets/7dfba897-bba9-491f-8b9a-63ea40dc4567)
+![Capture d'écran 5](https://github.com/user-attachments/assets/5fe22881-c88b-49cc-8204-620fa1562aef)
+
+
